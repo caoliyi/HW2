@@ -1,1 +1,107 @@
 #Homework2
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+       <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>Liyi Cao's Resume</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="http://v3.bootcss.com/examples/grid/grid.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+    <div class="container">
+
+      <div class="page-header">
+        <h1>Liyi Cao</h1>
+        <img src="./1.jpg"alt="Liyi Cao" class="img-rounded" hight="100" width="100">
+        <p class="lead">Electrical and Computer Engineer MS <br>1334 Commonwealth Ave. Boston,MA, 02134 <br>caoliyi@bu.edu</p>
+      </div>
+
+      <h3><strong>Professional summary</strong></h3>
+      <p><h4>A highly resourceful, flexible, innoviative, and enthusiastic electrical engineer.Good at team work, adaptability.At the same time good at observing the surrounding things, good at collecting data analysis. Also like to interact with others, love life. Learning ability, hard work, and constantly ask themselves to enhance their own. During the university also actively participate in volunteer activities, and with the team to conduct a good interaction, with good communication skills, people have more patience and confidence, and the courage to accept the challenges brought by new things. In life, I also like to humor to improve everyone's tense and busy pace, the future of life and work is full of expectations and vision.</h4></p>
+      <h3><strong>Education</strong></h3>
+      
+      <div class="row">
+        <div class="col-md-4">Xi'an Shiyou University <br>2012-2014 <strong>Electrical Engineer BS</strong>.</div>
+        <div class="col-md-4">University of Nebraska_lincoln<br>2014-2016 <strong>Electrical Engineer BS</strong>.</div>
+        <div class="col-md-4">Boston University <br>2017-2018(Fall) <strong>Electrical Engineer MS</strong>.</div>
+      </div>
+
+      <h3><strong>Skill</strong></strong></h3>
+      <p><h4> Progarmming Language</h4> </p>
+      <div class="row">
+        <div class="col-md-3">C</div>
+        <div class="col-md-6">C++</div>
+        <div class="col-md-3">Python</div>
+        <div class="col-md-3">HTML</div>
+        <div class="col-md-3">VHDL</div>
+        <div class="col-md-3">Verilog</div>
+        <div class="col-md-3">assembly</div>
+
+      </div>
+      <p><h4> Software</h4> </p>
+      <div class="row">
+        <div class="col-md-3">Vivado</div>
+        <div class="col-md-6">Arduino</div>
+        <div class="col-md-3">Labview</div>
+        <div class="col-md-3">Github</div>
+        
+      </div>
+
+
+      <h3><strong>Intersship Expriences</strong></h3>
+      <p>Xi'an Xinxing Power Company </p>
+      <div class="row">
+        <div class="col-md-8">Participate in the installation and design of distribution cabinets</div>
+        <div class="col-md-4">Copy and analyze the experimental data</div>
+      </div>
+      <p>Yulin Water Company </p>
+      <div class="row">
+        <div class="col-md-8">Participate in the operation of water supply and drainage equipment</div>
+        <div class="col-md-4">Record meeting and material analysis</div>
+      </div>
+
+      <h3><strong>Project</strong></h3>
+      <p>Smart House<br>Through the blueberry tree as an operating version, the use of MSP430 control the entire house circuit system. Wireless communication between the two. The use of solar panels to the house power supply, and has a storage power, low battery alarm and other functions.</p>
+
+      
+
+      <h3><strong>Awards and Scholarship</strong></h3>
+      <p>2012-2013 Academic year scholarships<br>2013-2014 Academic year scholarships<br>2014-2015 Honor List(<strong>Top 5% student in major</strong>)</p>
+      
+
+      <hr>
+
+      
+
+      <h3>Links</h3>
+      <a href="https://github.com/caoliyi" class="btn btn-info btn-sm active" role="botton">Github</a>
+      <a href="https://www.linkedin.com/in/liyi-cao-2b8709128/" class="btn btn-info btn-sm active" role="botton">LinkedIn</a>
+      
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>
